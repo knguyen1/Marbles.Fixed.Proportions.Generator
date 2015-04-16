@@ -1,0 +1,11 @@
+c:\users\knguyen\documents\visual studio 2013\Projects\Marbles\Marbles\bin\Debug\Marbles.exe.config
+c:\users\knguyen\documents\visual studio 2013\Projects\Marbles\Marbles\bin\Debug\Marbles.exe
+c:\users\knguyen\documents\visual studio 2013\Projects\Marbles\Marbles\bin\Debug\Marbles.pdb
+c:\users\knguyen\documents\visual studio 2013\Projects\Marbles\Marbles\obj\Debug\Marbles.exe
+c:\users\knguyen\documents\visual studio 2013\Projects\Marbles\Marbles\obj\Debug\Marbles.pdb
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\bin\Debug\Marbles.exe.config
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\obj\Debug\Marbles.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\obj\Debug\Marbles.pdb
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\obj\Debug\Marbles.csprojResolveAssemblyReference.cache
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\bin\Debug\Marbles.exe
+C:\Users\knguyen\Documents\Visual Studio 2013\Projects\Marbles.Fixed.Proportions.Generator\Marbles\bin\Debug\Marbles.pdb
