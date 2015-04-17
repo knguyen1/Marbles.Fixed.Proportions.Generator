@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Marbles
 {
     //extension for the enum class, we need this to create the Zip() tuple function
-    public static class Enumerable
+    public static class Extensions
     {
         public static IEnumerable<TResult> Zip<TFirst, TSecond, TResult>(this IEnumerable<TFirst> first, IEnumerable<TSecond> second, Func<TFirst, TSecond, TResult> tuple)
         {

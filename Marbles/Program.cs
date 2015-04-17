@@ -107,7 +107,8 @@ namespace QuickTest
             //add it to the result bucket
             for (int i = 0; i < count; i++)
             {
-                int pickedMarble = (int)masterBucket[mRandom.Next(masterBucket.Count)];
+                int randomIndex = mRandom.Next(masterBucket.Count);
+                int pickedMarble = (int)masterBucket[randomIndex];
                 resultBucket[i] = pickedMarble;
             }
 
@@ -134,7 +135,10 @@ namespace QuickTest
             // Also, separately output the number of red marbles in the first 100 marbles in your array.
             var redsInTopHundred = Array.FindAll(results.Take(100).ToArray(), s => s.Equals((int)MyMarbles.Red));
 
-            Console.WriteLine("\nCount of {0}'s in top 100: {1}", MyMarbles.Red.ToString(), redsInTopHundred.Count());
+            if (redsInTopHundred == null || redsInTopHundred.Length == 0)
+                Console.WriteLine("No reds in top 100 found.");
+            else
+                Console.WriteLine("\nCount of {0} marbles in top 100: {1}", (MyMarbles)redsInTopHundred[0], redsInTopHundred.Count());
 
         }
 
